@@ -5,7 +5,7 @@
 <a href="https://twitter.com/icdancely" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/icdancely-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
 <a href="sendto:icdancely@gmail.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/static/v1?style=flat-square&message=icdancely&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 
-I'm a casual developer based in :australia:. I'm interested in automating, 🤖 and AI, and most of my projects are web and game automation using scripting languages.
+I'm a casual developer based in <img src="https://cdn-icons-png.flaticon.com/128/323/323367.png" width="13"/> **Sydney, Australia**. I'm interested in automating, 🤖 and AI, and most of my projects are web and game automation using scripting languages.
 
 - 🌱 I'm currently learning Svelte/TypeScript
 - 🥅 2022 Goals: learn more about ML/DL
@@ -81,6 +81,7 @@ I'm a casual developer based in :australia:. I'm interested in automating, 🤖 
   <img height="185" align="center" alt="GitHub Stats" style="max-height:180px" src="https://webdev-github-readme-stats.vercel.app/api?username=icdance&count_private=true&show_icons=true&hide_border=true&theme=react" />
   <img height="185" align="center" alt="Language Stats" style="max-height:180px" src="https://webdev-github-readme-stats.vercel.app/api/top-langs/?username=icdance&layout=compact&langs_count=8&hide=SCSS,TeX,Assembly&hide_border=true&theme=react" />
 </p>
+<br />
 
 ![visitors](https://komarev.com/ghpvc/?username=icdance&style=flat-square&color=orange)
 [![Profile last updated](https://img.shields.io/github/last-commit/icdance/icdance/master?label=Last%20updated&style=flat-square)](https://github.com/icdance)
