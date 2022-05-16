@@ -1,11 +1,11 @@
-## Hey there!
+## Hey there! 👋
 
-<a href="sendto:icdancely@gmail.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/static/v1?style=flat-square&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-<a href="https://t.me/icdance" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
-<a href="https://github.com/icdance" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/icdancely" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://t.me/icdance" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/icdance-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+<a href="https://github.com/icdance" target="_blank"><img alt="Github" src="https://img.shields.io/badge/icdance-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/icdancely" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/icdancely-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="sendto:icdancely@gmail.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/static/v1?style=flat-square&message=icdancely&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 
-I'm a casual developer based in Australia. I'm interested in automating, bots and AI, and most of my projects are web and game automation using scripting languages.
+I'm a casual developer based in :australia:. I'm interested in automating, 🤖 and AI, and most of my projects are web and game automation using scripting languages.
 
 - 🌱 I'm currently learning Svelte/TypeScript
 - 🥅 2022 Goals: learn more about ML/DL
@@ -20,7 +20,7 @@ I'm a casual developer based in Australia. I'm interested in automating, bots an
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![AutoHotkey](https://img.shields.io/static/v1?style=flat-square&message=AutoHotkey&color=334455&logo=AutoHotkey&logoColor=FFFFFF&label=)
+![AutoHotkey](https://img.shields.io/static/v1?style=flat-square&message=AHK&color=334455&logo=AutoHotkey&logoColor=FFFFFF&label=)
 
 ![FastAPI](https://img.shields.io/static/v1?style=flat-square&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF&label=)
 ![Svelte](https://img.shields.io/static/v1?style=flat-square&message=Svelte&color=FF3E00&logo=Svelte&logoColor=FFFFFF&label=)
@@ -55,23 +55,25 @@ I'm a casual developer based in Australia. I'm interested in automating, bots an
 
 ```json
 {
-  "toolsReadable": {
-    "languagesMain": ["Q", "Python", "Javascript", "C"],
-    "languagesExtra": ["VBA", "VBS", "AHK", "HTML", "CSS"],
+  "languagesAndToolsReadable": {
+    "languages": ["Q Script language", "Python", "Javascript", "C"],
+    "languagesExtra": ["VB Script", "VBA", "AutoHotKey", "HTML", "CSS"],
     "frameworks": {
       "python": ["Fastapi", "Flask"],
       "javascript": "Svelte"
     },
-    "db": ["Postgres", "Mangodb"],
+    "database": ["Postgres", "Mangodb"],
     "editor": "VSCode",
     "platforms": ["Linux", "Windows", "Arduino"],
-    "platformsRemote": ["AWS", "Google Cloud", "Heroku"],
+    "platformsRemote": ["Amazon AWS", "Google Cloud Platform", "Heroku"],
     "otherTools": ["Docker", "Git", "Github Action", "NPM", "Node.js"]
   }
 }
 ```
 
-</details>
+## </details>
+
+---
 
 ### Quick Stats:
 
