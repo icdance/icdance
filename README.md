@@ -78,8 +78,8 @@ I'm a casual developer based in <img src="https://cdn-icons-png.flaticon.com/128
 ### Quick Stats:
 
 <p align="center">
-  <img height="185" align="center" alt="GitHub Stats" style="max-height:180px" src="https://webdev-github-readme-stats.vercel.app/api?username=icdance&count_private=true&show_icons=true&hide_border=true&theme=react" />
-  <img height="185" align="center" alt="Language Stats" style="max-height:180px" src="https://webdev-github-readme-stats.vercel.app/api/top-langs/?username=icdance&layout=compact&langs_count=8&hide=SCSS,TeX,Assembly&hide_border=true&theme=react" />
+  <img height="185" align="center" alt="GitHub Stats" style="max-height:180px" src="https://webdev-github-stats.vercel.app/api?username=icdance&count_private=true&show_icons=true&hide_border=true&theme=react" />
+  <img height="185" align="center" alt="Language Stats" style="max-height:180px" src="https://webdev-github-stats.vercel.app/api/top-langs/?username=icdance&layout=compact&langs_count=8&hide=SCSS,TeX,Assembly&hide_border=true&theme=react" />
 </p>
 <br />
 
