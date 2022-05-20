@@ -3,13 +3,13 @@
 <a href="https://t.me/icdance" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/icdance-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
 <a href="https://github.com/icdance" target="_blank"><img alt="Github" src="https://img.shields.io/badge/icdance-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 <a href="https://twitter.com/icdancely" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/icdancely-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="sendto:icdancely@gmail.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/static/v1?style=flat-square&message=icdancely&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+<a href="sendto:icdancely@gmail.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/icdancely-%23EA4335.svg?style=flat-square&logo=Gmail&logoColor=FFFFFF" /></a>
 
 I'm a casual developer based in <img src="https://cdn-icons-png.flaticon.com/128/323/323367.png" width="13"/> **Sydney, Australia**. I'm interested in automating, 🤖 and AI, and most of my projects are web and game automation using scripting languages.
 
-- 🌱 I'm currently learning Svelte/TypeScript
-- 🥅 2022 Goals: learn more about ML/DL
-- 🎯 Long term project: game automation with AI
+- 🌱 I'm currently learning Svelte/tailwind
+- 🥅 2022 Goals: more about ML/DL
+- 🎯 Long term project: rpg/moba automation with AI
 - 🔭 I build electronic projects like RFID, drones and bots
 - ⚡ I love fast cars, mountains and ocean
 
