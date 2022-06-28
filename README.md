@@ -7,7 +7,7 @@
 
 I'm a casual developer based in <img src="https://cdn-icons-png.flaticon.com/128/323/323367.png" width="13"/> **Sydney, Australia**. I'm interested in automating, 🤖 and AI, and most of my projects are web and game automation using scripting languages.
 
-- 🌱 I'm currently learning Svelte/tailwind
+- 🌱 I'm currently learning SvelteKit
 - 🥅 2022 Goals: more about ML/DL
 - 🎯 Long term project: rpg/moba automation with AI
 - 🔭 I build electronic projects like RFID, drones and bots
@@ -79,7 +79,7 @@ I'm a casual developer based in <img src="https://cdn-icons-png.flaticon.com/128
 
 <p align="center">
   <img height="185" align="center" alt="GitHub Stats" style="max-height:180px" src="https://webdev-github-stats.vercel.app/api?username=icdance&count_private=true&show_icons=true&hide_border=true&theme=react" />
-  <img height="185" align="center" alt="Language Stats" style="max-height:180px" src="https://webdev-github-stats.vercel.app/api/top-langs/?username=icdance&layout=compact&langs_count=8&hide=SCSS,TeX,Assembly&hide_border=true&theme=react" />
+  <img height="185" align="center" alt="Language Stats" style="max-height:180px" src="https://webdev-github-stats.vercel.app/api/top-langs/?username=icdance&layout=compact&langs_count=8&hide=SCSS,TeX,Assembly,AutoHotkey&hide_border=true&theme=react" />
 </p>
 <br />
 
